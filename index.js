@@ -1,4 +1,4 @@
-//TODO: Write code that will execute the commandline.js file in the command line
+//This file is used to run the command line interface
 
 const commandLine= require('./lib/commandline.js');
 const command = new commandLine();
